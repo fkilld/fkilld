@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img align="right" height="170" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="left">hey there 👋</h1>
+<h1 align="left">👋 Hi there! I'm Azad.</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Azad.<br><br>🔭 Specializing in MERN Stack and Python Django, I have over 3 years of hands-on experience in web development.<br><br>🌱 I'm not just passionate about coding; I also thrive on mentoring and training, enabling team growth and project excellence.<br><br>💡 My unique blend of technical expertise and leadership skills allows me to deliver scalable and efficient projects.<br><br>📫 Feel free to reach out or check out my repositories to see my work!</p>
+<h3 align="left">🔭 Specializing in MERN Stack and Python Django, I have over 3 years of hands-on experience in web development.<br><br>🌱 I'm not just passionate about coding; I also thrive on mentoring and training, enabling team growth and project excellence.<br><br>💡 My unique blend of technical expertise and leadership skills allows me to deliver scalable and efficient projects.<br><br>📫 Feel free to reach out or check out my repositories to see my work!</h3>
 
 ###
 
@@ -74,12 +74,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fkilld/fkilld/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/fkilld/count.svg?"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
 
 ###
