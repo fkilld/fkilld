@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🔭 Specializing in MERN Stack and Python Django, I have over 3 years of hands-on experience in web development.<br><br>🌱 I'm not just passionate about coding; I also thrive on mentoring and training, enabling team growth and project excellence.<br><br>💡 My unique blend of technical expertise and leadership skills allows me to deliver scalable and efficient projects.<br><br>📫 Feel free to reach out or check out my repositories to see my work!</h3>
+<h3 align="left">🔭 Specializing in MERN Stack and Python Django, I have over 5 years of hands-on experience in web development.<br><br>🌱 I'm not just passionate about coding; I also thrive on mentoring and training, enabling team growth and project excellence.<br><br>💡 My unique blend of technical expertise and leadership skills allows me to deliver scalable and efficient projects.<br><br>📫 Feel free to reach out or check out my repositories to see my work!</h3>
 
 ###
 
