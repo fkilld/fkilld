@@ -61,10 +61,10 @@
 ## 🤖 AI & LLM Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangSmith-FF6B6B?style=for-the-badge&logo=langsmith&logoColor=white" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Langfuse-10B981?style=for-the-badge&logo=langfuse&logoColor=white" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=python&logoColor=black" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangSmith-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Langfuse-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Langfuse" />
 </div>
 
 ---
@@ -76,7 +76,7 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fkilld/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fkilld&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
@@ -107,7 +107,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fkilld.fkilld" alt="Page Views" />
+  <img src="https://komarev.com/ghpvc/?username=fkilld&style=flat-square&color=green" alt="Page Views" />
 </div>
 
 ---
