@@ -112,6 +112,3 @@
 
 ---
 
-<div align="center">
-  <sub>⭐ Star this repository if you found it helpful!</sub>
-</div>
