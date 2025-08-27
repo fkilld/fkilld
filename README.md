@@ -68,6 +68,27 @@
 
 ###
 
+<h3 align="left">🤖 AI & LLM Technologies</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=python&logoColor=black" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangSmith-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Langfuse-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Langfuse" />
+</div>
+
+###
+
+<h3 align="left">🚀 AI Projects I've Built</h3>
+
+###
+
+<h3 align="left">• AI Person - Intelligent persona-based AI system<br>• AI Cursor Model - Advanced cursor prediction and automation<br>• AI Chatbot - Conversational AI with natural language processing<br>• Many More AI Applications - Exploring the cutting edge of LLM technology</h3>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fkilld&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
