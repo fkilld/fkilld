@@ -1,112 +1,75 @@
-<br clear="both">
-
-<img align="left" height="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Azad%20Pantawane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Agent%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/azad-pantawane-96893421b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@learnwithazad2821/about" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/fkill.d.azad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+<a href="https://github.com/fkilld">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+get+work+done;6%2B+years+in+software+development;3%2B+years+engineering+AI+agents;MERN+Stack+%7C+Python+%7C+Django" alt="typing intro" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/azad-pantawane-96893421b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@learnwithazad2821/about"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/fkill.d.azad/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=fkilld.fkilld&left_color=1a1b27&right_color=70a5fd" alt="profile views" />
+
 </div>
 
-###
+## About Me
+
+I'm a software engineer with **6+ years of experience in software development** and **3+ years of hands-on experience engineering AI agent projects**. I build everything from LLM-powered assistants to multi-step, tool-using agentic workflows, backed by production-grade web applications.
+
+- 🤖 Designing and shipping **AI agents** with LangChain and LangGraph
+- 🧱 Building scalable full-stack apps with the **MERN stack** and **Python Django**
+- 🔍 Making LLM systems reliable with tracing and evaluation (LangSmith, Langfuse)
+- 🎓 Mentoring and training developers, helping teams grow and ship with confidence
+- 🎥 Sharing what I learn on [YouTube](https://www.youtube.com/@learnwithazad2821/about)
+
+```python
+class Azad:
+    role       = "AI Agent Engineer & Full-Stack Developer"
+    experience = {"software_development": "6+ years", "ai_agents": "3+ years"}
+    ai_stack   = ["LangChain", "LangGraph", "LangSmith", "Langfuse"]
+    web_stack  = ["MongoDB", "Express", "React", "Node.js", "Django"]
+    focus      = ["AI agents", "Conversational AI", "Intelligent automation"]
+```
+
+## AI Engineering Focus Areas
+
+| Area | What I work on |
+| --- | --- |
+| 🤖 AI Agents & Agentic Workflows | Multi-step, tool-using agents built with LangChain and LangGraph |
+| 💬 Conversational AI | Chatbots and assistants with natural language understanding |
+| 🧑‍💼 Persona-based AI Systems | Context-aware, personalized AI experiences |
+| ⚙️ Intelligent Automation | AI-driven task and workflow automation |
+| 📈 LLM Observability | Tracing, evaluation and monitoring with LangSmith and Langfuse |
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,redux,tailwind,materialui,nodejs,express,django,mongodb,git,github&perline=8" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/Langfuse-10B981?style=for-the-badge&logoColor=white" alt="Langfuse" />
+</p>
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fkilld.fkilld&"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=fkilld&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&disable_animations=true" height="170" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=fkilld&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&disable_animations=true" height="170" alt="top languages" />
 </div>
-
-###
-
-<h1 align="left">👋 Hi there! I'm Azad.</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h3 align="left">🔭 Software engineer with 6+ years of experience in software development, specializing in MERN Stack and Python Django.<br><br>🤖 3+ years of hands-on experience engineering AI agent projects, from LLM-powered assistants to multi-step agentic workflows.<br><br>🌱 I'm not just passionate about coding; I also thrive on mentoring and training, enabling team growth and project excellence.<br><br>💡 My blend of technical expertise and leadership skills allows me to deliver scalable and efficient projects.<br><br>📫 Feel free to reach out or check out my repositories to see my work!</h3>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
-
-###
-
-<h3 align="left">🤖 AI & LLM Technologies</h3>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=python&logoColor=black" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangSmith-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Langfuse-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Langfuse" />
+  <img src="https://streak-stats.demolab.com?user=fkilld&theme=tokyonight&hide_border=true&border_radius=10&disable_animations=true" alt="GitHub streak" />
 </div>
-
-###
-
-<h3 align="left">🧠 AI Engineering Focus Areas</h3>
-
-###
-
-<h3 align="left">• AI Agents & Agentic Workflows - multi-step, tool-using agents built with LangChain and LangGraph<br>• Conversational AI - chatbots and assistants with natural language understanding<br>• Persona-based AI Systems - context-aware, personalized AI experiences<br>• Intelligent Automation - AI-driven task and workflow automation<br>• LLM Observability - tracing, evaluation and monitoring with LangSmith and Langfuse</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fkilld&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkilld&theme=tokyonight" width="100%" alt="contribution summary" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/40c463/fkilld" alt="GitHub contribution chart" />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
