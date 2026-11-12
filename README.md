@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🔭 Specializing in MERN Stack and Python Django, I have over 5 years of hands-on experience in web development.<br><br>🌱 I'm not just passionate about coding; I also thrive on mentoring and training, enabling team growth and project excellence.<br><br>💡 My unique blend of technical expertise and leadership skills allows me to deliver scalable and efficient projects.<br><br>📫 Feel free to reach out or check out my repositories to see my work!</h3>
+<h3 align="left">🔭 Software engineer with 6+ years of experience in software development, specializing in MERN Stack and Python Django.<br><br>🤖 3+ years of hands-on experience engineering AI agent projects, from LLM-powered assistants to multi-step agentic workflows.<br><br>🌱 I'm not just passionate about coding; I also thrive on mentoring and training, enabling team growth and project excellence.<br><br>💡 My blend of technical expertise and leadership skills allows me to deliver scalable and efficient projects.<br><br>📫 Feel free to reach out or check out my repositories to see my work!</h3>
 
 ###
 
@@ -81,11 +81,11 @@
 
 ###
 
-<h3 align="left">🚀 AI Projects I've Built</h3>
+<h3 align="left">🧠 AI Engineering Focus Areas</h3>
 
 ###
 
-<h3 align="left">• AI Person - Intelligent persona-based AI system<br>• AI Cursor Model - Advanced cursor prediction and automation<br>• AI Chatbot - Conversational AI with natural language processing<br>• Many More AI Applications - Exploring the cutting edge of LLM technology</h3>
+<h3 align="left">• AI Agents & Agentic Workflows - multi-step, tool-using agents built with LangChain and LangGraph<br>• Conversational AI - chatbots and assistants with natural language understanding<br>• Persona-based AI Systems - context-aware, personalized AI experiences<br>• Intelligent Automation - AI-driven task and workflow automation<br>• LLM Observability - tracing, evaluation and monitoring with LangSmith and Langfuse</h3>
 
 ###
 
@@ -96,7 +96,10 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fkilld/count.svg?"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fkilld/fkilld/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/fkilld/fkilld/output/snake.svg" alt="contribution snake animation" />
+  </picture>
 </div>
 
 ###
