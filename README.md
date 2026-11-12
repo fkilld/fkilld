@@ -96,10 +96,7 @@
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fkilld/fkilld/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/fkilld/fkilld/output/snake.svg" alt="contribution snake animation" />
-  </picture>
+  <img src="https://ghchart.rshah.org/40c463/fkilld" alt="GitHub contribution chart" />
 </div>
 
 ###
